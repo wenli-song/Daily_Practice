@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/hello world/.vs/hello world.slnx/v18
+/.vs
+/hello world/.vs/hello world.slnx/FileContentIndex
+/hello world/.vs/hello world/CopilotIndices/18.4.114.215
+/hello world
